@@ -1,0 +1,23 @@
+math_solver_project/
+│
+├── app.py                 # Your Flask app
+├── requirements.txt       # Python dependencies
+├── README.md              # Project description
+├── static/
+│   └── style.css          # Your CSS
+├── templates/
+│   ├── base.html
+│   ├── index.html
+│   └── ...
+├── data/
+│   └── contact_messages.csv
+│
+├── examples/
+│   ├── example1/
+│   │   ├── description.md
+│   │   └── initial_values.json
+│   ├── example2/
+│   │   ├── description.md
+│   │   └── initial_values.json
+│   ├── example3/
+│   └── example4/
